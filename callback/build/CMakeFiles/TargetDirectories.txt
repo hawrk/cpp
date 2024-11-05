@@ -1,0 +1,5 @@
+/home/hawrk/github/hawrk/cpp/callback/build/CMakeFiles/edit_cache.dir
+/home/hawrk/github/hawrk/cpp/callback/build/CMakeFiles/callback3.dir
+/home/hawrk/github/hawrk/cpp/callback/build/CMakeFiles/callback2.dir
+/home/hawrk/github/hawrk/cpp/callback/build/CMakeFiles/rebuild_cache.dir
+/home/hawrk/github/hawrk/cpp/callback/build/CMakeFiles/callback1.dir

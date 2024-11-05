@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hawrk/github/hawrk/cpp/callback/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/callback3.dir/callback3_main.cpp.o -c /home/hawrk/github/hawrk/cpp/callback/callback3_main.cpp",
+  "file": "/home/hawrk/github/hawrk/cpp/callback/callback3_main.cpp"
+},
+{
+  "directory": "/home/hawrk/github/hawrk/cpp/callback/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/callback2.dir/callback2_main.cpp.o -c /home/hawrk/github/hawrk/cpp/callback/callback2_main.cpp",
+  "file": "/home/hawrk/github/hawrk/cpp/callback/callback2_main.cpp"
+},
+{
+  "directory": "/home/hawrk/github/hawrk/cpp/callback/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/callback1.dir/callback_main.cpp.o -c /home/hawrk/github/hawrk/cpp/callback/callback_main.cpp",
+  "file": "/home/hawrk/github/hawrk/cpp/callback/callback_main.cpp"
+}
+]
