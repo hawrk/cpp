@@ -1,3 +1,3 @@
-/home/byd/src/cpp/thread_class/build/CMakeFiles/thread_notify.dir
-/home/byd/src/cpp/thread_class/build/CMakeFiles/edit_cache.dir
-/home/byd/src/cpp/thread_class/build/CMakeFiles/rebuild_cache.dir
+/home/byd/src/cpp/thread_awesome/build/CMakeFiles/thread_notify.dir
+/home/byd/src/cpp/thread_awesome/build/CMakeFiles/edit_cache.dir
+/home/byd/src/cpp/thread_awesome/build/CMakeFiles/rebuild_cache.dir

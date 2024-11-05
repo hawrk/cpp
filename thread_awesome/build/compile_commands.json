@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/byd/src/cpp/thread_awesome/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -o CMakeFiles/thread_notify.dir/thread_notify.cpp.o -c /home/byd/src/cpp/thread_awesome/thread_notify.cpp",
+  "file": "/home/byd/src/cpp/thread_awesome/thread_notify.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/byd/src/cpp/sqlite3/build/CMakeFiles/main.dir
+/home/byd/src/cpp/sqlite3/build/CMakeFiles/edit_cache.dir
+/home/byd/src/cpp/sqlite3/build/CMakeFiles/rebuild_cache.dir
