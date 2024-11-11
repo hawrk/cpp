@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hawrk/github/hawrk/cpp/sqlite3/sqlite3.cpp" "/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/main.dir/sqlite3.cpp.o"
+  "/home/hawrk/github/hawrk/cpp/sqlite3/sqliteOrm.cpp" "/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/sqlorm.dir/sqliteOrm.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

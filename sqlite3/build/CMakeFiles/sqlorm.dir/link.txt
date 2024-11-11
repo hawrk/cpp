@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/sqlorm.dir/sqliteOrm.cpp.o  -o sqlorm  -lsqlite3 

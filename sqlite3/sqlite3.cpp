@@ -1,8 +1,8 @@
 /*
  * @Author: hawrkchen hawrk2012@163.com
  * @Date: 2024-10-21 11:08:58
- * @LastEditors: hawrkchen hawrk2012@163.com
- * @LastEditTime: 2024-10-21 11:47:01
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-11-08 10:37:59
  * @FilePath: /sqlite3/sqlite3.cpp
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -11,6 +11,8 @@
 
 #include <iostream>
 #include <sqlite3.h>
+#include "header.hpp"
+
 
 int main(int argc, char **argv) {
     sqlite3 *db;
@@ -21,6 +23,7 @@ int main(int argc, char **argv) {
         std::cerr << "Can't open database: " << sqlite3_errmsg(db) << std::endl;
         return 1;
     }
+
     // 查询语句
     const char *sql = "SELECT * FROM tb_robot";
     sqlite3_stmt *stmt;

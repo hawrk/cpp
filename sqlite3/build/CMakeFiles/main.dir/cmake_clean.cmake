@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/main.dir/sqlite3.cpp.o"
-  "CMakeFiles/main.dir/sqlite3.cpp.o.d"
   "main"
   "main.pdb"
 )
