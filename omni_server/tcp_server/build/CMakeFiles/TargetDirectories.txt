@@ -1,0 +1,4 @@
+/home/hawrk/src/cpp/omni_server/tcp_server/build/CMakeFiles/main_server.dir
+/home/hawrk/src/cpp/omni_server/tcp_server/build/CMakeFiles/main_client.dir
+/home/hawrk/src/cpp/omni_server/tcp_server/build/CMakeFiles/edit_cache.dir
+/home/hawrk/src/cpp/omni_server/tcp_server/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+2025-02-19 10:37:23.168 INFO  http server listening on 0.0.0.0:8090 [HttpServer.cpp:178:http_server_run]
+2025-02-19 10:37:23.169 INFO  EventLoop started, pid=126591 tid=126591 [HttpServer.cpp:151:loop_thread]
+2025-02-19 10:37:26.258 INFO  get signal :2, exit [omni_server.cpp:22:signalHandler]

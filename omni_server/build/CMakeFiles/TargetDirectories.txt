@@ -1,0 +1,10 @@
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/hv_demo.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/test_crypto.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/http_server.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/tcp_server.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/tcp_client_cxx.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/test_curl.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/test_app_manager.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/omni_server.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/edit_cache.dir
+/home/hawrk/Documents/GitHub/omni_server/build/CMakeFiles/rebuild_cache.dir
