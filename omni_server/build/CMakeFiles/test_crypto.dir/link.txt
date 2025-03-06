@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_crypto.dir/test/test_crypto_suite.cpp.o CMakeFiles/test_crypto.dir/common/tc_file.cpp.o CMakeFiles/test_crypto.dir/common/curl_lib.cpp.o CMakeFiles/test_crypto.dir/common/crypto_suite.cpp.o -o test_crypto  -lssl -lcrypto -lcurl -lz -larchive 

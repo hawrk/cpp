@@ -1,3 +1,0 @@
-/home/hawrk/src/cpp/omni_server/test/build/CMakeFiles/test_thread_pool_complex.dir
-/home/hawrk/src/cpp/omni_server/test/build/CMakeFiles/edit_cache.dir
-/home/hawrk/src/cpp/omni_server/test/build/CMakeFiles/rebuild_cache.dir

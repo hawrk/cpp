@@ -1,4 +1,0 @@
-/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/rebuild_cache.dir
-/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/edit_cache.dir
-/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/sqlorm.dir
-/home/hawrk/github/hawrk/cpp/sqlite3/build/CMakeFiles/main.dir

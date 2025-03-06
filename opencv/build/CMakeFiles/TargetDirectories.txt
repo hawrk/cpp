@@ -1,3 +1,0 @@
-/home/byd/src/cpp/opencv/build/CMakeFiles/opencv.dir
-/home/byd/src/cpp/opencv/build/CMakeFiles/edit_cache.dir
-/home/byd/src/cpp/opencv/build/CMakeFiles/rebuild_cache.dir

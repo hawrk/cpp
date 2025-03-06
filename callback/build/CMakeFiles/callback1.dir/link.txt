@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/callback1.dir/callback_main.cpp.o  -o callback1 

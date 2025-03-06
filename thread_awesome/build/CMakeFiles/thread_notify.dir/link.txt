@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/thread_notify.dir/thread_notify.cpp.o -o thread_notify  -lpthread 
