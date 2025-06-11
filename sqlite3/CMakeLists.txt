@@ -8,10 +8,10 @@ find_package(SQLite3 REQUIRED)
 find_package(SqliteOrm REQUIRED)
 
 
-add_executable(main sqlite3.cpp)
+#add_executable(main sqlite3.cpp)
 
 add_executable(sqlorm sqliteOrm.cpp)
 
 target_link_libraries(sqlorm PUBLIC sqlite3)
 
-target_link_libraries(main PUBLIC sqlite3)
+#target_link_libraries(main PUBLIC sqlite3)
