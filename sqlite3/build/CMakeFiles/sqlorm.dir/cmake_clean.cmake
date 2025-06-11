@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sqlorm.dir/sqliteOrm.cpp.o"
+  "CMakeFiles/sqlorm.dir/sqliteOrm.cpp.o.d"
   "sqlorm"
   "sqlorm.pdb"
 )

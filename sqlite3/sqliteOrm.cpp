@@ -4,29 +4,39 @@
  * @Description: 
  * @FilePath: /sqlite3/sqliteOrm.cpp
  */
-#include "header.hpp"
+
 #include <iostream>
+
+#include "sqlite_storage.hpp"
 
 using namespace sqlite_orm;
 
+
+
 int main(int argc, char* argv[])    
 {
-    auto storage = init_storage();
-    storage.sync_schema();
+    //auto storage = init_storage();
+    //storage.sync_schema();
+
+     auto& storage = SQLiteStorageSingleton::getInstance().getStorage();
 
     std::cout << "======== select * from tb_robot; ============ " << std::endl;
     auto robots = storage.get_all<Robot>();
     std::cout << "Total robots: " << robots.size() << std::endl;
     for(const auto &robot : robots)
     {
-        std::cout << "robotId:" << robot.id << " ---" << "robotName:" << robot.name <<std::endl;
+        std::cout << "robotId:" << robot.id << " ---" << "robotName:" << robot.app_name <<std::endl;
     }
 
     // 查询id 为3 的数据
     std::cout << "============select * from tb_robot where id = 3=================" << std::endl;
-    auto robot = storage.get<Robot>(3);
-    std::cout << "robotId:" << robot.id << " " << std::endl;
-    std::cout << "robotName:" << robot.name << std::endl;
+    auto robot = storage.get_pointer<Robot>(3);
+    if(robot) {
+        std::cout << "robotId:" << robot->id << " " << std::endl;
+        std::cout << "robotName:" << robot->name << std::endl;
+    } else {
+        std::cout << "robot not found" << std::endl;
+    }
 
     // 查询name 为"diga"的数据  
     std::cout << "=========select * from tb_robot where name = 'diga'==============" << std::endl;
@@ -45,10 +55,10 @@ int main(int argc, char* argv[])
         std::cout << "robotId:" << std::get<0>(robot)<< " " << "robotName:" << std::get<1>(robot) << std::endl;
     }
     // 再加入几个奥特曼
-    // Robot otaku1{7,"zoffy"};  // 佐菲
-    // Robot otaku2{8,"seven"};    // 赛文
-    // storage.insert(otaku1);
-    // storage.insert(otaku2);
+    Robot otaku1{7,"zoffy"};  // 佐菲
+    Robot otaku2{8,"seven"};    // 赛文
+    storage.insert(otaku1);
+    storage.insert(otaku2);
 
     std::cout << "======== select * from tb_robot; ============ " << std::endl;
     auto robot4 = storage.get_all<Robot>();
@@ -64,8 +74,12 @@ int main(int argc, char* argv[])
 
     // 查询id 为2 的数据
     std::cout << "============select * from tb_robot where id = 2=" << std::endl;
-    auto robot5 = storage.get<Robot>(2);
-    std::cout << "robotId:" << robot5.id << " " << " robotName:" << robot5.name << std::endl;
+    auto robot5 = storage.get_pointer<Robot>(2);
+    if(robot5) {
+        std::cout << "robotId:" << robot5->id << " " << " robotName:" << robot5->name << std::endl;
+    } else {
+        std::cout << "robot not found" << std::endl;
+    }
 
     // 删除id 为 8 的数据
     std::cout << "======== delete from tb_robot where id = 8; ============ " << std::endl;
