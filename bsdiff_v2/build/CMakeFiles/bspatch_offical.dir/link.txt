@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/bspatch_offical.dir/bspatch_offical.cpp.o -o bspatch_offical  -Wl,-rpath,/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/lib ../lib/libbsdiff.so -lbz2 

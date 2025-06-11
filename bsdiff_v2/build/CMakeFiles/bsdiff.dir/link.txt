@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC -g -shared -Wl,-soname,libbsdiff.so -o ../lib/libbsdiff.so CMakeFiles/bsdiff.dir/bsdiff/bsdiff.c.o CMakeFiles/bsdiff.dir/bsdiff/bspatch.c.o  -lbz2 

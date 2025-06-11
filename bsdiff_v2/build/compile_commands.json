@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build",
+  "command": "/usr/bin/gcc -Dbsdiff_EXPORTS  -g -fPIC -o CMakeFiles/bsdiff.dir/bsdiff/bsdiff.c.o -c /home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff/bsdiff.c",
+  "file": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff/bsdiff.c"
+},
+{
+  "directory": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build",
+  "command": "/usr/bin/gcc -Dbsdiff_EXPORTS  -g -fPIC -o CMakeFiles/bsdiff.dir/bsdiff/bspatch.c.o -c /home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff/bspatch.c",
+  "file": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff/bspatch.c"
+},
+{
+  "directory": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/bsdiff_offical.dir/bsdiff_offical.cpp.o -c /home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff_offical.cpp",
+  "file": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bsdiff_offical.cpp"
+},
+{
+  "directory": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/bspatch_offical.dir/bspatch_offical.cpp.o -c /home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bspatch_offical.cpp",
+  "file": "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/bspatch_offical.cpp"
+}
+]

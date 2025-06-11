@@ -1,0 +1,5 @@
+/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build/CMakeFiles/bsdiff.dir
+/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build/CMakeFiles/bsdiff_offical.dir
+/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build/CMakeFiles/bspatch_offical.dir
+/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build/CMakeFiles/edit_cache.dir
+/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build/CMakeFiles/rebuild_cache.dir

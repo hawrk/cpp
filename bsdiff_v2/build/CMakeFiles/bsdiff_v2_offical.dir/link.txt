@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/bsdiff_v2_offical.dir/bsdiff_v2_offical.cpp.o -o bsdiff_v2_offical  -Wl,-rpath,/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/lib ../lib/libbsdiff.so -lbz2 

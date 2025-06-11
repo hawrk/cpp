@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bsdiff_v2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bsdiff::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsdiff-Debug-57d6536028bc1ad50645.json",
+					"name" : "bsdiff",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bsdiff_offical::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bsdiff_offical-Debug-284491946c4da524c105.json",
+					"name" : "bsdiff_offical",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bspatch_offical::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bspatch_offical-Debug-a9c98425c9151baa9da3.json",
+					"name" : "bspatch_offical",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2/build",
+		"source" : "/home/hawrk/Documents/GitHub/hawrk/cpp/bsdiff_v2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

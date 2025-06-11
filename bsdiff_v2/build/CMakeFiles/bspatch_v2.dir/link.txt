@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/bspatch_v2.dir/bspatch_main.cpp.o CMakeFiles/bspatch_v2.dir/bspatch.c.o -o bspatch_v2 
