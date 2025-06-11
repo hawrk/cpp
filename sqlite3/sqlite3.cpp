@@ -1,8 +1,8 @@
 /*
  * @Author: hawrkchen hawrk2012@163.com
  * @Date: 2024-10-21 11:08:58
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-11-08 10:37:59
+ * @LastEditors: Do not edit
+ * @LastEditTime: 2025-03-20 09:11:46
  * @FilePath: /sqlite3/sqlite3.cpp
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
