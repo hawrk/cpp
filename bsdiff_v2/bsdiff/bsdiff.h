@@ -1,3 +1,4 @@
+
 /*-
  * Copyright 2003-2005 Colin Percival
  * Copyright 2012 Matthew Endsley
@@ -59,6 +60,7 @@ static void offtout(int64_t x,uint8_t *buf)
 }
 
 int bsdiff(const uint8_t* oldfile, int64_t oldsize, const uint8_t* newfile, int64_t newsize, struct bsdiff_stream* stream);
+
 
 int bsdiff_file(const char* oldfile, const char* newfile, const char* patchfile);
 

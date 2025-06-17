@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mqttrpc_client.dir/main_client.cpp.o CMakeFiles/mqttrpc_client.dir/mqtt/mqtt_rpc_client.cpp.o -o mqttrpc_client  -lpaho-mqttpp3 -lpaho-mqtt3a -luuid 

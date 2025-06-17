@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mqttrpc",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mqttrpc_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mqttrpc_client-66d4ec9623f42d58b2a9.json",
+					"name" : "mqttrpc_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mqttrpc_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mqttrpc_server-f13907d3f19eb4bb334a.json",
+					"name" : "mqttrpc_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hawrk/Documents/GitHub/hawrk/cpp/mqttrpc/build",
+		"source" : "/home/hawrk/Documents/GitHub/hawrk/cpp/mqttrpc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
